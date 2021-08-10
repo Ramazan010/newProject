@@ -1,8 +1,23 @@
+@import "base/variables";
+@import "base/mixins";
+@import "base/fonts";
+
+*{
+	font-family: "MuseoModerno", "sans-serif";
+}
+
+@import "block/header";
+@import "block/button";
+@import "block/promo";
 
 
 
-@import "fonts";
-@import "variables";
-@import "mixins";
-@import "general";
-@import "media";
+
+
+
+
+
+@import "block/general";
+@import "block/media";
+
+
