@@ -8,6 +8,10 @@
 	background: #C70101;
 	border-radius: 5px;
 	border: none;
+	transition: .2s linear;
+	&:hover {
+		background: #ad0202;
+	}
 	&--header{
 		width: 150px;
 		height: 30px;
