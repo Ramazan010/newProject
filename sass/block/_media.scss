@@ -1,3 +1,21 @@
+@media (max-width: 1199px) {
+	.consultation__description {
+		font-size: 18px;
+		text-align: center;
+		margin-top: 20px;
+		margin-bottom: 40px;
+	}
+
+	.form-contact {
+		margin: 0 auto;
+	}
+
+	.title--left {
+		font-size: 30px;
+		text-align: center;
+	}
+}
+
 @media (max-width: 991px) {
 	.promo__iner {
 		align-items: center;
@@ -74,5 +92,20 @@
 
 	.title {
 		font-size: 24px;
+	}
+
+	.consultation__description {
+		font-size: 14px;
+		text-align: center;
+		margin-top: 20px;
+		margin-bottom: 40px;
+	}
+
+	.form-contact {
+		width: auto;
+	}
+
+	.title--left {
+		font-size: 18px;
 	}
 }

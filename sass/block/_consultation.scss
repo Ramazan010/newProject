@@ -1,0 +1,17 @@
+.consultation {
+	min-height: 680px;
+	padding: 100px 0;
+	background: url(../image/bg/contact_bg.jpg) 50% 50% no-repeat;
+	background-size: cover;
+	&__description {
+		font-weight: 500;
+		font-size: 20px;
+		line-height: 1.5;
+		color: #ffffff;
+		margin-top: 15px;
+		margin-bottom: 35px;
+		p {
+			margin: 0;
+		}
+	}
+}

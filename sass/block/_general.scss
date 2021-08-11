@@ -1,7 +1,13 @@
 .title {
 	font-weight: 700;
 	font-size: 30px;
-	line-height: 1;
+	line-height: 1.4;
 	text-align: center;
 	color: #0D0D0D;
+	margin: 0;
+	&--left {
+		font-size: 40px;
+		color: #ffffff;
+		text-align: left;
+	}
 }
